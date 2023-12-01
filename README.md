@@ -1,36 +1,14 @@
 # APP-DEVELOPMENT
-My first repository
+# 3 SONGS
 
-# Movie Overview: The Notebook
+## 1. YELLOW
 
-## Overview
-"The Notebook" is a romantic drama film released in 2004, directed by Nick Cassavetes, and based on the 1996 novel of the same name by Nicholas Sparks. The story unfolds as an elderly man, Duke, reads a love story from a notebook to an older woman, Allie, residing in a nursing home. The narrative switches between past and present, recounting the love story between Noah and Allie.
+**The prompt is to show off something or someone you love. The color of sunshine, yellow brings about positive feelings. Joy, happiness, and hope are all within yellow's domain. It can boost confidence, curiosity, and even improve learning.
 
-## Plot Summary
-The movie revolves around Noah Calhoun and Allie Hamilton, two young lovers from vastly different backgrounds who fall deeply in love one summer in the 1940s. Their passionate romance is tested by societal pressures, class differences, and the onset of World War II. Despite obstacles and challenges, their love persists, but circumstances force them apart.
+## 2. THE MAN WHO CAN'T BE MOVED
 
-## Main Characters
-- Noah Calhoun (played by Ryan Gosling)
-- Allie Hamilton (played by Rachel McAdams)
-- Older Noah (played by James Garner)
-- Older Allie (played by Gena Rowlands)
+**The song was about true emotion and true love and not having, in a day where a lot of people would be able to buy somebody back or give them enough flowers to win them back.To do something selfless and to do something that you don't really know and to kind of put it out there with fate. That's what we wanted from the song.
 
-## Director
-Nick Cassavetes
+## 3. HERE WITHOUT YOU
 
-## Release Date
-June 25, 2004
-
-## Reception
-"The Notebook" received generally positive reviews from critics and audiences for its emotional depth, performances, and storytelling. It became a significant success at the box office and gained a devoted fanbase.
-
-## Awards and Nominations
-The film received nominations for several awards, including the Teen Choice Awards and MTV Movie Awards.
-
-## Impact
-The movie is often praised for its heartfelt portrayal of enduring love and has become a beloved classic in the romance genre.
-
-## Legacy
-"The Notebook" continues to resonate with audiences, maintaining its popularity and cultural significance.
-
-This overview provides a glimpse into the movie's storyline, characters, director, release information, reception, and cultural impact. You can further expand on each section, add images, or include specific details relevant to your analysis or presentation.
+** Its about that person who (well I'd like to think of it this way) you broke up with either recently or a long time ago. And you later find out or realize that, that person means the whole world to you. Only this time its too dang late. Shes gone and shes so far away and all you can ever do is dream about her, and live for that moment that you will be together in your dreams. Its a sad song, a song of regrets maybe, but generally i think its a sad song.
